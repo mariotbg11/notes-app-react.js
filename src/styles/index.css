@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: linear-gradient(
+    to left top,
+    #53d3d1,
+    #44bbbc,
+    #35a4a7,
+    #268d92,
+    #17777d,
+    #2d7a7e,
+    #3d7c80,
+    #4a7f81,
+    #719b9a,
+    #98b8b5,
+    #bfd6d2
+  );
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
